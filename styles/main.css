@@ -50,8 +50,12 @@ nav li a:active{
     color:#CC6600;
 }
 
+
+
+
 .quals{
     border-collapse: collapse;
+    margin-left: 20%;
 }
 .quals th{
     border-bottom:3px solid #ccc;
